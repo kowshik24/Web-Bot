@@ -2,6 +2,8 @@
 
 Web Bot is an bot that chat with any Website and get the information from the website using Langchain and Web Scraping.
 
+## Check out the live demo: [Web Bot](https://web-bot-chat.streamlit.app/)
+
 ## Features 📋
 - **Chat with any Website**: You can chat with any website and get the information from the website.
 - **Web Scraping**: You can get the information from the website using Web Scraping.
